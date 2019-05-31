@@ -1,0 +1,2 @@
+lab2_pkg
+-DCATKIN_DEVEL_PREFIX=/home/skysar/Documents/spring18/EE5531/lab2/jackal_jammers/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/skysar/Documents/spring18/EE5531/lab2/jackal_jammers/workspace/install -G Unix Makefiles

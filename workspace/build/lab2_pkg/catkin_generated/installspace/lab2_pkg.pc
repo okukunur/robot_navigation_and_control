@@ -1,0 +1,8 @@
+prefix=/home/skysar/Documents/spring18/EE5531/lab2/jackal_jammers/workspace/install
+
+Name: lab2_pkg
+Description: Description of lab2_pkg
+Version: 0.0.0
+Cflags: -I/home/skysar/Documents/spring18/EE5531/lab2/jackal_jammers/workspace/install/include
+Libs: -L/home/skysar/Documents/spring18/EE5531/lab2/jackal_jammers/workspace/install/lib 
+Requires: roscpp rospy std_msgs message_runtime
